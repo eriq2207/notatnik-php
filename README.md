@@ -1,5 +1,5 @@
-Przykładowy projekt notatnika wykorzystujący PWA
+Example project of using php with PWA
 
-Wymagana jest wpisanie informacji do połączenia z bazą danych w pliku config.php
+You need to fill information in config.php file
 
-Struktura bazy danych w pliku notatnik.sql
+The structure of database is in notatnik.sql file
